@@ -1,0 +1,30 @@
+09/Apr/17 - 08:45:43  -> Successfully Connected to the Server. 
+09/Apr/17 - 08:45:43  -> /192.168.0.2:47100 
+09/Apr/17 - 08:45:43  -> Waiting for Available file list. 
+09/Apr/17 - 08:45:47  -> Downloading : final tut video.rar 
+09/Apr/17 - 08:45:47  -> read 5% 
+09/Apr/17 - 08:45:47  -> read 10% 
+09/Apr/17 - 08:45:47  -> read 15% 
+09/Apr/17 - 08:45:47  -> read 20% 
+09/Apr/17 - 08:45:47  -> read 25% 
+09/Apr/17 - 08:45:47  -> read 30% 
+09/Apr/17 - 08:45:47  -> read 35% 
+09/Apr/17 - 08:45:47  -> read 40% 
+09/Apr/17 - 08:45:47  -> read 45% 
+09/Apr/17 - 08:45:47  -> read 50% 
+09/Apr/17 - 08:45:47  -> read 55% 
+09/Apr/17 - 08:45:47  -> read 60% 
+09/Apr/17 - 08:45:47  -> read 65% 
+09/Apr/17 - 08:45:47  -> read 70% 
+09/Apr/17 - 08:45:47  -> read 75% 
+09/Apr/17 - 08:45:47  -> read 80% 
+09/Apr/17 - 08:45:47  -> read 85% 
+09/Apr/17 - 08:45:47  -> read 90% 
+09/Apr/17 - 08:45:47  -> read 95% 
+09/Apr/17 - 08:45:47  -> read 100% 
+09/Apr/17 - 08:45:47  -> File Download Complete!!! 
+09/Apr/17 - 08:45:55  -> CheckFile;device-2017-03-28-231204.mp4;827566 
+09/Apr/17 - 08:45:55  -> /192.168.0.2:3000Sending File /home/msrabon/device-2017-03-28-231204.mp4 
+09/Apr/17 - 08:45:55  -> true 
+09/Apr/17 - 08:45:55  -> /192.168.0.2:3000Sending File /home/msrabon/device-2017-03-28-231204.mp4 
+09/Apr/17 - 08:45:55  -> device-2017-03-28-231204.mp4 Upload to Server Success! 

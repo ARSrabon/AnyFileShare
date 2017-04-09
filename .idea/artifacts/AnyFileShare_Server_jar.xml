@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AnyFileShare Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnyFileShare_Server_jar</output-path>
+    <root id="archive" name="AnyFileShare Server.jar">
+      <element id="module-output" name="AnyFileShare Server" />
+    </root>
+  </artifact>
+</component>
